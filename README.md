@@ -1,7 +1,7 @@
 # CCL2019“小牛杯”中文幽默计算评测
 CCL2019，“小牛杯”中文幽默计算任务的数据集及baseline  
 
-**Update：测试集标签已上传**
+**Update：测试集标签已发布**
 
 任务说明参见CCL2019官方网站：http://www.cips-cl.org/static/CCL2019/call-evaluation.html 。  
 任务每个阶段的排名将在该GitHub公布。  
